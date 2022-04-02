@@ -18,7 +18,8 @@ BEBE
 
 ### CODE 
 
-<script src="https://gist.github.com/mchakir19741/44234b12a2b38209ed8873261054fee3.js"></script> 
+C'est mon code [code](<script src="https://gist.github.com/mchakir19741/44234b12a2b38209ed8873261054fee3.js"></script>)
+
 
 
 
